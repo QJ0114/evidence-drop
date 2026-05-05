@@ -147,7 +147,7 @@ Prefix is determined by dataset filename:
 
 If you use this code, please cite:
 ```
-[Your Paper Citation Here]
+
 ```
 
 ## License
